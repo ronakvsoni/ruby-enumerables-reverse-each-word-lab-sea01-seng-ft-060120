@@ -6,4 +6,4 @@ def reverse_each_word(string)
   end
   strings_in_array_reversed.join(" ")
 end
-p reverse_each_word("Hello there, and how are you?")
+p reverse_each_word("Ronak")
